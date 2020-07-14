@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <logo />
+      <!-- <logo /> -->
       <h1 class="title">
         vue-ssr-app
       </h1>
@@ -30,11 +30,11 @@
 
 <script lang="ts">
 import Vue from 'vue'
-import Logo from '~/components/Logo.vue'
+// import Logo from '~/components/Logo.vue'
 
 export default Vue.extend({
   components: {
-    Logo
+    // Logo
   }
 })
 </script>

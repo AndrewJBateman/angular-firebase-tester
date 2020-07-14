@@ -1,6 +1,6 @@
 # :zap: view-ssr-app
 
-* Vue 4 app created with Nuxt, using Server Side Rendering (SSR), Bulma CSS framework and Docker to create a Google CloudRun project
+* Vue app created with Nuxt, using Server Side Rendering (SSR), Bulma CSS framework and Docker to create a Google CloudRun project
 
 **Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -21,7 +21,7 @@
 
 ## :camera: Screenshots
 
-![frontend image](./img/frontend.png)
+![frontend image](./img/vue.png)
 
 ## :signal_strength: Technologies - Frontend
 
@@ -52,8 +52,8 @@
 
 ## :clipboard: Status & To-Do List
 
-* Status: Very basic, working Vue SSR app. Docker image creating failed - issues with Docker running on my Oracle Virtualbox.
-* To-Do: Fix Docker
+* Status: Very basic, working Vue SSR app. Logo commented out to avoid error. Docker image creating failed - issues with Docker running on my Oracle Virtualbox.
+* To-Do: Fix logo error, try cloud Docker
 
 ## :clap: Inspiration
 
