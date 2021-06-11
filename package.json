@@ -1,7 +1,7 @@
 {
   "name": "vue-ssr-app",
   "version": "1.0.0",
-  "description": "My premium Nuxt.js project",
+  "description": "Nuxt.js project",
   "author": "",
   "private": true,
   "scripts": {
@@ -11,13 +11,13 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.13.3",
-    "cross-env": "^7.0.2",
+    "@nuxtjs/bulma": "^1.2.7",
+    "cross-env": "^7.0.3",
     "express": "^4.17.1",
-    "@nuxtjs/bulma": "^1.2.7"
+    "nuxt": "^2.15.6"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4",
-    "@nuxt/typescript-build": "^2.0.0"
+    "@nuxt/typescript-build": "^2.1.0",
+    "nodemon": "^2.0.7"
   }
 }
