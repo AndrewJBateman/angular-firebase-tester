@@ -1,8 +1,12 @@
 # :zap: view-ssr-app
 
 * Vue app created with Nuxt, using Server Side Rendering (SSR), Bulma CSS framework and Docker to create a Google CloudRun project
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-**Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/vue-ssr-app?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/vue-ssr-app?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/vue-ssr-app?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/vue-ssr-app?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -48,7 +52,7 @@
 
 ## :cool: Features
 
-* f
+* N/A
 
 ## :clipboard: Status & To-Do List
 
@@ -59,6 +63,10 @@
 
 * [Fireship:  Cloud Run QuickStart - Docker to Serverless](https://www.youtube.com/watch?v=3OP-q55hOUI)
 
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
+
 ## :envelope: Contact
 
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
