@@ -1,6 +1,6 @@
 # :zap: view-ssr-app
 
-* Vue app created with Nuxt, using Server Side Rendering (SSR), Bulma CSS framework and Docker to create a Google CloudRun project
+* Vue app with PWA to display API data
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/vue-ssr-app?style=plastic)
@@ -10,18 +10,22 @@
 
 ## :page_facing_up: Table of contents
 
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [:zap: view-ssr-app](#zap-view-ssr-app)
+  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
+  * [:books: General info](#books-general-info)
+  * [:camera: Screenshots](#camera-screenshots)
+  * [:signal_strength: Technologies - Frontend](#signal_strength-technologies---frontend)
+  * [:floppy_disk: Setup - Frontend](#floppy_disk-setup---frontend)
+  * [:computer: Code Examples - Frontend](#computer-code-examples---frontend)
+  * [:cool: Features](#cool-features)
+  * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
+  * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
+  * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
 
-* NUXT used to create app with SSR etc. already set up
+* tba
 
 ## :camera: Screenshots
 
@@ -29,11 +33,8 @@
 
 ## :signal_strength: Technologies - Frontend
 
-* [Vue v4](https://vuejs.org/)
+* [Vue v3](https://vuejs.org/)
 * [Vue.js devtools chrome extension](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
-* [Nuxt v2](https://nuxtjs.org/) Vue framework
-* [Bulma](https://bulma.io/) CSS framework
-* [Express v4](https://expressjs.com/)
 
 ## :floppy_disk: Setup - Frontend
 
@@ -56,12 +57,12 @@
 
 ## :clipboard: Status & To-Do List
 
-* Status: Very basic, working Vue SSR app. Logo commented out to avoid error. Docker image creating failed - issues with Docker running on my Oracle Virtualbox.
-* To-Do: Fix logo error, try cloud Docker
+* Status: Working but change data displayed and styling.
+* To-Do: Replace API url and table column headings. Add SSR
 
 ## :clap: Inspiration
 
-* [Fireship:  Cloud Run QuickStart - Docker to Serverless](https://www.youtube.com/watch?v=3OP-q55hOUI)
+* tba
 
 ## :file_folder: License
 
